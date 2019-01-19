@@ -1,0 +1,164 @@
+==============================================
+Path :https://github.com/vimleshtech/python_jan4
+==============================================
+
+=======================
+Today's Topics
+=======================
+-Overview of Python 
+-Python's Environment Setup 
+-Python's Applications 
+
+-Python HelloWorld/First Program
+-Python Essentials
+	-Syntax
+	-keywords
+	-datatype
+	-input and output
+-Operator
+-Condition 
+
+===========================
+Overview of Python 
+===========================
+-> Python is open source(free) scripting laguage 
+-> Python is plateform independent (works on all operating system)
+		-linux
+		-windows
+		-mac
+		etc.
+-> Python is interpreter based programing laguage 
+		-line by line exectution 
+-> Python is light weight and easy to understand(like english)
+
+==============================		
+Python's Environment Setup 
+==============================
+Version:
+	3.7  
+	3.6  ** (stable)
+	3.5
+	3.4  *
+	..
+	..
+	2.7	
+	
+Editor:
+	-Python Shell/Command prompt  (like DOS prompt)
+		>>>
+		
+	-Python IDLE / GUI  	**
+		python code/script should be saved with .py extension 
+	-Other Editor 
+		-Anonconda		**
+		-Jupyter		**	
+		-VSCode		**
+		-PyCharm
+		-Eclipse	**
+		-Sublime
+		etc.
+					
+===============================
+Python's Applications 
+===============================
+Data Analytics:
+	-Machiene Learning
+	-Data Scicence
+	-AI
+	-Deep Learning
+	-Autonation 
+
+Web Developent:
+	-Flask
+	-DJango 
+
+Automation Testing
+	-Selenium
+	
+IT Infra
+	-Security
+	-Ethicalhacking
+	-DevOps
+		-Cloud Compute(AWS)
+		-Ansible
+		-Docker
+		etc.
+
+==================================
+Python HelloWorld/First Program
+==================================
+-> Python is indentatin based programing language
+	a =11
+	b =44
+-> Python does allocate memory automatically based on given data 
+	a =1 #int
+	a ='sisgsyh' # syr
+	a ="ssgsgs" # str
+		
+
+-> pthon code/script should be saved with .py extension 
+	and then press "F5" to execute the code 
+========================
+Python Essentials
+========================
+Syntax
+	#	: single line comment
+	'''
+		: multi line comment
+	'''
+	"""
+		: multi lien comment
+	"""
+
+
+	'ajsggs111': str /alhpa numeric
+	"	": str
+	[]	 : list
+	()	 : tuple
+	{}	 : dict, set
+	:	 : body of class,function, loop , condition etc.
+	
+	
+
+keywords: is reserved wrods(system defined words)
+======================================
+	if
+	else
+	elif
+	while
+	for
+	in 
+	not in
+	int
+	float
+	etc.
+
+datatype:
+====================
+int		:a =11
+float		:a =3433.3
+str		:a='skssh'
+		or 
+		b ="skhshgsgs"
+bool		: a = True / False
+list		: a =[111,222,333,44,'ffff']
+		-list is mutable / chageable 
+
+tuple		: a = (111,22,3,4,'ff')
+		-is read only 
+		
+dict		: key : value
+		d ={'a':'alpha',1:'one'}
+set		:
+		s ={'dove','iphone','dove'}
+		-store unique value
+		-one dove will be removed automatically 
+		
+
+type(data/var) : return data type 
+			
+
+input and output
+====================
+
+
